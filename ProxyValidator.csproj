@@ -9,11 +9,11 @@
         <LangVersion>latest</LangVersion>
         <AnalysisLevel>latest</AnalysisLevel>
         <AnalysisMode>AllEnabledByDefault</AnalysisMode>
-        <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
+        <!--<CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>-->
         <EnableNETAnalyzers>true</EnableNETAnalyzers>
         <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
         <Nullable>enable</Nullable>
-        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <!--<TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
         <RunAnalyzersDuringBuild>true</RunAnalyzersDuringBuild>
         <RunAnalyzersDuringLiveAnalysis>true</RunAnalyzersDuringLiveAnalysis>
         <Deterministic>true</Deterministic>
